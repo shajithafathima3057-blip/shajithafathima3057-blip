@@ -12,4 +12,4 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/)) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/)(https://www.linkedin.com/in/shajitha-fathima-7a8447378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
