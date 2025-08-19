@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on AI Engineer 
 - 💬 I want to know more about python,C,C++ 
 - 😄 Pronouns: She
-- ⚡ Fun fact:I want explore the world✨...
+- ⚡ Fun fact:I want to explore the world✨...
 
 
 ## 🌐 Connect with Me
