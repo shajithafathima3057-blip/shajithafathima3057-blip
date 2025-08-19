@@ -2,12 +2,12 @@
 
 # ABOUT ME
 
-- 🔭 I’m currently Studing B.Sc. AI & ML 
+- 🔭 I’m currently Studing B.Sc. AI & ML in Shrimati Indira Gandhi College,Trichy.Affiliated to Bharathidhasan University 
 - 🌱 I’m currently learning C and DS,Python
 - 👯 I’m looking to collaborate on AI Engineer 
 - 💬 I want to know more about python,C,C++ 
 - 😄 Pronouns: She
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:I want explore the world✨...
 
 
 ## 🌐 Connect with Me
